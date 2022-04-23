@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Featured",
+    "\\src\\components\\ListItem",
+    "\\src\\components\\Navbar",
+    "\\src\\Pages",
+    "\\src\\Pages\\Home",
+    "\\src\\Pages\\MyList",
+    "\\src\\Pages\\NewAndPopular"
+  ],
+  "PreviewInSolutionExplorer": false
+}
